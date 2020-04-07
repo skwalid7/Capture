@@ -1,0 +1,101 @@
+/* Medium Layout:1280px. */
+@media only screen and (min-width:992px) and (max-width:1200px) {
+	
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width:768px) and (max-width:991px) {
+	
+}
+/* wide Mobile Layout;488px  */
+@media only screen and (min-width:480px) and (max-width:767px) {
+	
+}
+/* Mobile Layout: 320px;. */
+@media only screen and (max-width:767px) {
+	.navbar-brand {
+    padding: 5px 0px 5px;
+}
+.hero-area {
+    margin-top: 55px;
+}
+.hero-head h1 {
+    font-size: 23px;
+    color:#2e2e2e;
+}
+.hero-head button {
+    margin-top: 15px;
+    height: 40px;
+    width: 133px;
+    border: 1px solid;
+    font-size: 13px;
+    margin-right: 12px;
+}
+.about-content h2 {
+    font-size: 20px;
+}
+.about-content p {
+    font-size: 15px;
+}
+.about-content ul li {
+    font-size: 14px;
+}
+.about-content ul li i {
+    padding-bottom: 15px;
+    font-size: 15px;
+    display: block;
+}
+.about-content button {
+    margin-top: 20px;
+    height: 40px;
+    width: 185px;
+    border: 1px solid;
+    font-size: 14px;
+    margin-right: 0px;
+}
+.about-content a {
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.features-item i {
+    padding-top: 51px;
+}
+.f-row2 {
+    padding-top:0px;
+    padding-bottom: 30px;
+}
+.single-review-item p {
+    font-size: 15px;
+    color: #5e5e5e;
+    padding: 20px;
+}
+.single-review-item h5 {
+    padding-top: 10px;
+}
+.input-area {
+    padding: 15% 0%;
+}
+.email-area input {
+    margin-top: 15px;
+    border-radius: 0px;
+    padding: 5px 20px;
+}
+.foot-icon i {
+    font-size: 30px;
+    margin: 0px 12px;
+}
+.foot-icon {
+    padding-bottom: 10px;
+}
+.copy {
+    font-size: 14px;
+}
+#scrollUp {
+    bottom: 35px;
+    right: 15px;
+}
+
+
+
+
+}	
